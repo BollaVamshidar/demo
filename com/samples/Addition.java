@@ -1,5 +1,9 @@
 package com.samples;
 import java.util.*;
+
+/*
+This class two int input and print resultant output
+*/
 public class Addition{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
